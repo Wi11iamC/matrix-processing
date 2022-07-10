@@ -1,4 +1,4 @@
-# Project 2 -- Matrix Processing Library C++
+# Project 2 - Matrix Processing Library C++
 
 This project is a tool to perform matrix operations (i.e adding, subtracting, multiplication, and transpose) based on a given input matrix. 
 
